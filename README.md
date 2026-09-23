@@ -8,8 +8,10 @@ Interactive lab rankings derived from the published literature (OpenAlex), one p
 
 Open the site: **https://<user>.github.io/<repo>/**
 
-Every page is a single self-contained HTML file — no CDN, no build step, works from `file://` too.
-Sliders re-weight the composite live so you can see how stable the order is.
+Every page is self-contained HTML — no CDN, no build step. Sliders re-weight the composite live so
+you can see how stable the order is, and **clicking a lab opens its own page**: profile and ORCID
+links, research topics, the indicators behind its rank, and its most recent papers in that field with
+abstracts and DOI links.
 
 ## How the roster is built
 
