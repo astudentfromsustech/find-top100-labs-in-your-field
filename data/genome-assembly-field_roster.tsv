@@ -1,0 +1,101 @@
+disc_rank	author_id	name	institution	country	n_first	n_last	n_first_last	cites_of_those	top10	top1	tracked
+1	A5077529047	Liam M Crowley	University of Oxford	GB	131	0	131	197	3	0	yes
+2	A5100632434	Douglas Boyes	UK Centre for Ecology & Hydrology	GB	108	0	108	123	0	0	yes
+3	A5100338825	Heng Li	Dana-Farber Cancer Institute	US	1	12	13	4261	9	8	yes
+4	A5041398686	Maarten J. M. Christenhusz	Royal Botanic Gardens, Kew	GB	71	0	71	55	0	0	yes
+5	A5086869042	Adam M. Phillippy	National Human Genome Research Institute	US	1	8	9	9029	8	6	yes
+6	A5014870107	Evan E. Eichler	Howard Hughes Medical Institute	US	0	13	13	2098	12	6	yes
+7	A5061203088	Benedict Paten	University of California, Santa Cruz	US	0	10	10	2435	10	7	yes
+8	A5027480961	Pavel A. Pevzner	University of California San Diego	US	0	13	13	8507	7	3	yes
+9	A5070612147	Gavin R. Broad	Natural History Museum	GB	54	0	54	33	0	0	yes
+10	A5082498266	Ryan R. Wick	Monash University	AU	9	1	10	2382	7	6	yes
+11	A5060637041	Mark Blaxter	Wellcome Sanger Institute	GB	1	21	22	3063	7	2	yes
+12	A5053008488	Markus Ruhsam	Royal Botanic Garden Edinburgh	GB	48	0	48	10	1	0	yes
+13	A5092669299	Olga Sivell	Natural History Museum	GB	48	0	48	35	0	0	yes
+14	A5122066804	Aquatic Symbiosis Genomics Project Leadership			0	45	45	0	1	0	yes
+15	A5028548956	Erich D. Jarvis	Rockefeller University	US	1	11	12	2062	9	3	yes
+16	A5070867120	Kenta Shirasawa	Kazusa DNA Research Institute	JP	17	5	22	440	10	0	yes
+17	A5077909607	Arang Rhie	National Human Genome Research Institute	US	3	2	5	7743	5	3	yes
+18	A5012608258	Xingtan Zhang	Agricultural Genomics Institute at Shenzhen	CN	3	7	10	1195	7	4	yes
+19	A5018079714	Giulio Formenti	Rockefeller University	US	5	3	8	1966	7	4	yes
+20	A5045742761	C. Robin Buell	University of Georgia	US	0	16	16	907	6	3	yes
+21	A5026487938	Li Guo	Weifang University	CN	1	10	11	321	9	3	yes
+22	A5080608098	Kathryn E. Holt	London School of Hygiene & Tropical Medicine	GB	0	11	11	2273	5	4	yes
+23	A5002509297	De-Zhu Li	Kunming Institute of Botany	CN	0	7	7	4568	6	3	yes
+24	A5025147358	Mikhail Kolmogorov	University of California San Diego	US	3	2	5	8049	3	3	yes
+25	A5031851632	Jianquan Liu	Sichuan University	CN	0	9	9	600	8	3	yes
+26	A5008117650	Korbinian Schneeberger	Max Planck Institute for Plant Breeding Research	DE	0	6	6	1990	6	4	yes
+27	A5051330280	Nils Stein	Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)	DE	0	8	8	1969	5	4	yes
+28	A5069276956	Sachiko Isobe	Kazusa DNA Research Institute	JP	2	14	16	592	10	0	yes
+29	A5017539699	İnanç Birol	Canada's Michael Smith Genome Sciences Centre	CA	0	15	15	654	8	1	yes
+30	A5103050511	Yongfeng Zhou	Agricultural Genomics Institute at Shenzhen	CN	0	5	5	581	5	5	yes
+31	A5082040351	Richard M. Durbin	University of Cambridge	GB	0	6	6	5610	3	3	yes
+32	A5009709215	Rajeev Kumar Varshney	Murdoch University	AU	2	8	10	496	8	2	yes
+33	A5057073317	Robert James Henry	The University of Queensland	AU	0	17	17	324	8	0	yes
+34	A5067570776	Tobias Marschall	Heinrich Heine University Düsseldorf	DE	0	8	8	790	6	3	yes
+35	A5119580504	Project Psyche Community			0	33	33	0	0	0	yes
+36	A5010384159	Steven L. Salzberg	Johns Hopkins University	US	0	8	8	1775	4	3	yes
+37	A5058192453	Michael C. Schatz	Johns Hopkins University	US	0	5	5	4132	3	3	yes
+38	A5030770600	Jian‐Feng Mao	Beijing Forestry University	CN	0	10	10	587	8	1	yes
+39	A5108266740	Steven Falk	Agriculture and Horticulture Development Board	GB	31	0	31	33	0	0	yes
+40	A5008992371	Erik P. Garrison	University of Tennessee Health Science Center	US	3	4	7	848	5	3	yes
+41	A5113527463	Steven Falk	Agriculture and Horticulture Development Board	GB	30	0	30	30	0	0	yes
+42	A5036428702	Sanwen Huang	Agricultural Genomics Institute at Shenzhen	CN	0	4	4	931	4	4	yes
+43	A5100633484	Shilin Chen	Chinese Academy of Medical Sciences & Peking Union Medical College	CN	0	7	7	401	5	3	yes
+44	A5021392718	Dario Cantù	University of California, Davis	US	0	9	9	367	4	3	yes
+45	A5058453295	Wirulda Pootakham	National Science and Technology Development Agency	TH	9	7	16	268	6	0	yes
+46	A5065968878	Zhichao Xu	Ministry of Education of the People's Republic of China	CN	6	1	7	442	6	2	yes
+47	A5013154420	Huilong Du	Hebei University	CN	1	10	11	387	8	0	yes
+48	A5069029417	Jia‐Ming Song	Guangxi University	CN	2	5	7	1041	5	2	yes
+49	A5038507706	David C. Lees	Natural History Museum	GB	27	0	27	6	0	0	yes
+50	A5044551702	Paul B. Frandsen	Brigham Young University	US	1	13	14	442	4	1	yes
+51	A5091082059	Konrad Lohse	University of Edinburgh	GB	14	4	18	218	2	1	yes
+52	A5090965279	Benjamin D. Rosen	Agricultural Research Service	US	1	5	6	1201	5	2	yes
+53	A5056861386	Guojie Zhang	Kunming Institute of Zoology	CN	0	9	9	479	4	2	yes
+54	A5044987443	Haoyu Cheng	Harvard University	US	5	0	5	1327	3	3	yes
+55	A5012396646	Mitchell R. Vollger	University of Washington	US	4	0	4	767	4	3	yes
+56	A5020845045	Andrey D. Prjibelski	St Petersburg University	RU	2	2	4	4741	2	2	yes
+57	A5087265421	David Porubskỳ	University of Washington	US	4	0	4	394	4	3	yes
+58	A5071551425	Jiang Yong Hu	Bioscience (China)	CN	3	0	3	1860	3	3	yes
+59	A5061916596	Karen HH Miga	University of California, Santa Cruz	US	1	5	6	1052	4	2	yes
+60	A5150540108	Alexander Chernov			4	4	8	0	8	0	yes
+61	A5088950998	Jue Ruan	Agricultural Genomics Institute at Shenzhen	CN	1	5	6	1949	3	2	yes
+62	A5060102553	Ming‐Cheng Luo	University of California, Davis	US	0	4	4	832	3	3	yes
+63	A5022826861	Chenxi Zhou	University of Cambridge	AU	4	0	4	2741	3	2	yes
+64	A5042289737	Kateryna D. Makova	Pennsylvania State University	US	1	4	5	225	5	2	yes
+65	A5085247591	Mara Lawniczak	Wellcome Sanger Institute	GB	5	10	15	223	4	0	yes
+66	A5070886202	Jean‐Marc Aury	Centre National de la Recherche Scientifique	FR	2	4	6	591	4	2	yes
+67	A5001675482	Louis Bernatchez	Université Laval	CA	0	6	6	585	4	2	yes
+68	A5100325856	Fei Li	Zhejiang University	CN	1	7	8	463	5	1	yes
+69	A5020355973	Martin Mascher	Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK)	DE	1	4	5	855	4	2	yes
+70	A5047186376	Tingting Zhu	University of California, Davis	US	3	0	3	830	3	3	yes
+71	A5005422374	Junpeng Shi	Sun Yat-sen University	CN	2	4	6	329	4	2	yes
+72	A5011023136	Stephen R. Doyle	Wellcome Sanger Institute	GB	2	4	6	267	4	2	yes
+73	A5002927550	Shanlin Liu	Bioscience (China)	CN	0	3	3	2745	3	2	yes
+74	A5073767610	Jerome H. L. Hui	Chinese University of Hong Kong	HK	6	10	16	242	3	0	yes
+75	A5077539873	Glenn Hickey	University of California, Santa Cruz	US	2	1	3	702	3	3	yes
+76	A5037440162	Fritz Joachim Sedlazeck	Baylor College of Medicine	US	0	3	3	634	3	3	yes
+77	A5060776410	Zhangjun Fei	Cornell University	US	0	5	5	502	4	2	yes
+78	A5010103643	Matthew B. Hufford	Iowa State University	US	1	2	3	2449	3	2	yes
+79	A5082993256	Anton Korobeynikov	St Petersburg University	RU	0	6	6	3860	2	1	yes
+80	A5064402534	Timothy P. L. Smith	Roman L. Hruska U.S. Meat Animal Research Center	US	1	4	5	331	4	2	yes
+81	A5100451875	Hyun Park	Korea University	KR	0	13	13	250	2	1	yes
+82	A5052201974	Sithichoke Tangphatsornruang	National Science and Technology Development Agency	TH	0	13	13	247	4	0	yes
+83	A5115595159	Lianguang Shang	Agricultural Genomics Institute at Shenzhen	CN	2	2	4	661	4	2	yes
+84	A5032841079	Junyang Yue	Anhui Agricultural University	CN	2	4	6	554	5	1	yes
+85	A5045241930	Henry T. Nguyen	University of Missouri	US	0	4	4	404	4	2	yes
+86	A5040392250	Qiang Xu	Huazhong Agricultural University	CN	0	4	4	299	4	2	yes
+87	A5013134616	Zhiqiang Wu	Agricultural Genomics Institute at Shenzhen	CN	0	10	10	218	5	0	yes
+88	A5027850387	Daniel Croll	University of Neuchâtel	CH	0	6	6	217	5	1	yes
+89	A5076134515	Jiantao Guan	Chinese Academy of Agricultural Sciences	CN	4	0	4	213	4	2	yes
+90	A5032548139	Kai Ye	Xi'an Jiaotong University	CN	0	10	10	207	5	0	yes
+91	A5072089482	Péter Szövényi	University of Zurich	CH	0	8	8	73	4	1	yes
+92	A5005029320	Maxwell V. L. Barclay	Natural History Museum	GB	20	0	20	10	0	0	
+93	A5062335998	Wesley C. Warren	University of Missouri	US	2	5	7	483	4	1	yes
+94	A5063525915	Scott M. Geib	Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center	US	0	7	7	444	4	1	yes
+95	A5039921045	Yu Jiang	Northwest A&F University	CN	0	9	9	403	5	0	yes
+96	A5063472700	Woori Kwak	University of California, Santa Cruz	KR	0	5	5	3394	2	1	yes
+97	A5047935755	Cheong Xin Chan	The University of Queensland	AU	0	5	5	371	5	1	yes
+98	A5004318121	Xuehui Huang	Shanghai Normal University	CN	1	4	5	326	3	2	yes
+99	A5100438360	Jianxin Wang	Central South University	CN	0	11	11	268	2	1	yes
+100	A5049934769	Kerstin Howe	Wellcome Sanger Institute	GB	6	1	7	2191	2	1	yes

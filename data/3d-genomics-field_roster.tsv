@@ -1,0 +1,101 @@
+disc_rank	author_id	name	institution	country	n_first	n_last	n_first_last	cites_of_those	top10	top1	tracked
+1	A5073855965	Bing Ren	Ludwig Cancer Research	US	2	13	15	2127	10	7	yes
+2	A5017406892	Leonid A. Mirny	Massachusetts Institute of Technology	US	5	17	22	3587	9	4	yes
+3	A5038851202	Job Dekker	Howard Hughes Medical Institute	US	2	16	18	1356	11	5	yes
+4	A5049740611	Anders S. Hansen	Massachusetts Institute of Technology	US	2	11	13	1378	9	4	yes
+5	A5047645830	Feng Yue	Northwestern University	US	0	13	13	1074	9	3	yes
+6	A5055191083	Jan‐Michael Peters	Research Institute of Molecular Pathology	AT	0	11	11	1805	9	3	yes
+7	A5101925686	Xingwang Li	Huazhong Agricultural University	CN	0	16	16	888	9	1	yes
+8	A5087766645	Giacomo Cavalli	Institut de Génétique Humaine	FR	0	11	11	1317	6	3	yes
+9	A5100626893	Jian Ma	Carnegie Mellon University	US	1	13	14	789	7	2	yes
+10	A5048392622	Gerd A. Blobel	Children's Hospital of Philadelphia	US	0	12	12	698	7	2	yes
+11	A5089996499	Cees Dekker	Delft University of Technology	NL	1	8	9	559	6	3	yes
+12	A5017102269	Luca Giorgetti	Friedrich Miescher Institute	CH	0	5	5	1382	5	4	yes
+13	A5053251909	Hyejung Won	University of North Carolina at Chapel Hill	US	2	12	14	678	6	1	yes
+14	A5045736877	Romain Koszul	Centre National de la Recherche Scientifique	FR	0	8	8	557	7	2	yes
+15	A5073121511	Frank Uhlmann	The Francis Crick Institute	GB	1	9	10	551	6	2	yes
+16	A5031476631	Veniamin Fishman	Institute of Cytology and Genetics	RU	0	18	18	291	4	1	yes
+17	A5051112684	Jim R. Hughes	MRC Weatherall Institute of Molecular Medicine	GB	1	8	9	789	8	1	yes
+18	A5059196144	Sergey V. Razin	Institute of Gene Biology	RU	5	16	21	467	4	0	yes
+19	A5030260621	Mingzhou Li	Sichuan Agricultural University	CN	0	13	13	400	6	1	yes
+20	A5042064951	A. Marieke Oudelaar	Max Planck Institute for Solar System Research	DE	2	6	8	576	6	2	yes
+21	A5013257553	Maojun Wang	Huazhong Agricultural University	CN	2	8	10	426	5	2	yes
+22	A5079862746	Alistair Nicol Boettiger	Stanford University	US	1	9	10	897	6	1	yes
+23	A5076700359	Wendy A. Bickmore	Institute of Genetics and Cancer	GB	1	8	9	898	4	2	yes
+24	A5070694154	Jennifer E. Phillips‐Cremins	University of Pennsylvania	US	0	8	8	819	4	2	yes
+25	A5017727012	Rachel Patton McCord	University of Tennessee at Knoxville	US	2	10	12	636	4	1	yes
+26	A5023743496	Stefan Mundlos	Max Planck Institute for Molecular Genetics	DE	0	6	6	624	5	2	yes
+27	A5023560103	Bin Zhang	Massachusetts Institute of Technology	US	1	13	14	464	5	0	yes
+28	A5007805763	Stephan Gruber	University of Lausanne	CH	0	10	10	417	7	0	yes
+29	A5100404163	Guoliang Li	Huazhong Agricultural University	CN	2	16	18	244	3	0	yes
+30	A5021916927	Dariusz M. Plewczynski	University of Warsaw	PL	0	20	20	203	2	0	yes
+31	A5081340727	Elzo de Wit	Oncode Institute	NL	1	8	9	620	7	0	yes
+32	A5033590861	Tom Misteli	National Cancer Institute	US	2	8	10	878	2	2	yes
+33	A5066655980	Sergey V. Ulianov	Institute of Gene Biology	RU	5	5	10	625	4	1	yes
+34	A5036380790	Ferhat Ay	La Jolla Institute for Immunology	US	0	9	9	922	4	1	yes
+35	A5100427963	Ting Wang	Washington University in St. Louis	US	0	4	4	394	3	3	yes
+36	A5036176693	Hao Wu	Shandong University	CN	3	7	10	312	6	0	yes
+37	A5005974028	Joachim R. Wolff	University of Freiburg	DE	10	3	13	622	2	1	yes
+38	A5080272556	Inkyung Jung	Korea Advanced Institute of Science and Technology	KR	1	10	11	608	3	1	yes
+39	A5081647581	Huacheng Luo	Pennsylvania State University	US	7	2	9	474	4	1	yes
+40	A5026125772	Argyris Papantonis	Universitätsmedizin Göttingen	DE	1	8	9	472	4	1	yes
+41	A5069259926	Jesse R. Dixon	Salk Institute for Biological Studies	US	0	5	5	274	4	2	yes
+42	A5035293995	Joseph R. Ecker	Salk Institute for Biological Studies	US	0	4	4	736	4	2	yes
+43	A5108049941	Siyuan S. Wang	Yale University	US	0	10	10	298	5	0	yes
+44	A5016365997	Qingxin Song	Nanjing Agricultural University	CN	0	4	4	278	4	2	yes
+45	A5068836221	Qiang Wu	Shanghai Jiao Tong University	CN	2	12	14	214	3	0	yes
+46	A5103220709	Yin Shen	University of California, San Francisco	US	0	5	5	402	3	2	yes
+47	A5022028438	Peter J. Park	Harvard University	US	0	5	5	367	3	2	yes
+48	A5044366692	Mario Nicodemi	Istituto Nazionale di Fisica Nucleare, Sezione di Napoli	DE	1	10	11	332	4	0	yes
+49	A5051843431	Martial Marbouty	Centre National de la Recherche Scientifique	FR	1	4	5	218	3	2	yes
+50	A5074757598	Iain F. Davidson	Research Institute of Molecular Pathology	AT	3	0	3	1192	3	2	yes
+51	A5057375933	William Stafford Noble	University of Washington	US	0	10	10	566	4	0	yes
+52	A5009574425	Marcelo Nöllmann	Centre National de la Recherche Scientifique	FR	0	6	6	521	2	2	yes
+53	A5085943317	Longzhi Tan	Stanford University	US	5	3	8	467	3	1	yes
+54	A5054373250	Elizabeth H. Finn	National Cancer Institute	US	4	1	5	877	2	2	yes
+55	A5087959577	Xiaowei Zhuang	Howard Hughes Medical Institute	US	0	3	3	858	3	2	yes
+56	A5003283556	Oluwatosin Oluwadare	University of Colorado Colorado Springs	US	2	14	16	285	1	0	yes
+57	A5013604041	Maria Pia Cosma	Centre for Genomic Regulation	ES	1	7	8	279	3	1	yes
+58	A5008319091	Hai‐Hui Xue	Center for Discovery	US	0	8	8	275	5	0	yes
+59	A5085231879	Christina S. Leslie	Memorial Sloan Kettering Cancer Center	US	0	6	6	224	4	1	yes
+60	A5012969471	Yuxuan Du	The University of Texas at San Antonio	US	9	5	14	148	2	0	yes
+61	A5100616943	Suming Huang	Pennsylvania State University	US	0	9	9	494	2	1	yes
+62	A5091717149	Yuri Y. Shevelyov	Institute of Molecular Genetics	RU	2	3	5	437	4	1	yes
+63	A5100728506	Chunquan Li	Harbin Medical University	CN	0	7	7	427	3	1	yes
+64	A5028790437	Yijun Ruan	Jackson Laboratory	US	1	8	9	407	2	1	yes
+65	A5038339937	Daan Noordermeer	Centre National de la Recherche Scientifique	FR	2	9	11	311	3	0	yes
+66	A5047489198	Biswajit Pradhan	Max Planck Institute of Biophysics	DE	3	0	3	309	3	2	yes
+67	A5064696395	Paul M. Lieberman	The Wistar Institute	US	1	6	7	226	5	0	yes
+68	A5100369226	Yun Li	University of North Carolina at Chapel Hill	US	1	14	15	158	1	0	yes
+69	A5084208078	Sibum Sung	The University of Texas at Austin	US	0	5	5	107	4	1	yes
+70	A5004008868	Vadim Backman	Northwestern University	US	1	8	9	56	2	1	yes
+71	A5061775199	Wei Xie	Center for Life Sciences	CN	0	6	6	485	5	0	yes
+72	A5040230088	Howard Y. Chang	Howard Hughes Medical Institute	US	0	6	6	392	5	0	yes
+73	A5061718043	Junjun Ding	Sun Yat-sen University	CN	0	8	8	330	4	0	yes
+74	A5065223172	Shuhong Zhao	Huazhong Agricultural University	CN	0	4	4	267	2	2	yes
+75	A5046513501	Tamar Schlick	New York University Shanghai	US	0	14	14	228	1	0	yes
+76	A5005523015	Emre Sefer	Özyeğin University	TR	5	9	14	215	1	0	yes
+77	A5101983080	Tsung-Han S. Hsieh	Howard Hughes Medical Institute	US	2	0	2	1147	2	2	yes
+78	A5030987631	José N. Onuchic	Center for Theoretical Biological Physics	US	0	12	12	141	2	0	yes
+79	A5045742761	C. Robin Buell	Michigan Agricultural Experiment Station	US	0	3	3	598	2	2	yes
+80	A5072506531	Philippe Collas	Oslo University Hospital	NO	1	6	7	580	2	1	yes
+81	A5021842648	Wouter L. de Laat	University Medical Center Utrecht	NL	0	5	5	535	3	1	yes
+82	A5087492673	Melissa J. Fullwood	Nanyang Technological University	SG	0	7	7	445	2	1	yes
+83	A5005062415	Katherine S. Pollard	Gladstone Institutes	US	0	5	5	411	3	1	yes
+84	A5044129164	Quentin Szabo	Université de Montpellier	FR	2	0	2	888	2	2	yes
+85	A5051845185	Aristotelis Tsirigos	NYU Langone Health	US	0	3	3	370	2	2	yes
+86	A5070999017	Elphège Pierre Nora	University of California, San Francisco	US	1	4	5	254	3	1	yes
+87	A5100726561	Yijing Zhang	Center for Excellence in Molecular Plant Sciences	CN	1	2	3	252	2	2	yes
+88	A5082330841	Robert Tjian	Howard Hughes Medical Institute	US	0	2	2	726	2	2	yes
+89	A5087630383	Justin Martin O'Sullivan	University of Auckland	NZ	1	10	11	171	2	0	yes
+90	A5026010692	Yue Zhou	Peking University	CN	0	7	7	162	4	0	yes
+91	A5067338673	Stefan Grob	University of Zurich	CH	2	3	5	117	5	0	yes
+92	A5061170649	Pia Mach	University of Basel	CH	2	0	2	574	2	2	
+93	A5088773932	Coline Arnould	Centre National de la Recherche Scientifique	FR	2	0	2	531	2	2	yes
+94	A5074543116	Gaëlle Legube	Centre National de la Recherche Scientifique	FR	0	2	2	531	2	2	yes
+95	A5034199564	Eileen E. M. Furlong	European Molecular Biology Laboratory	DE	0	4	4	529	3	1	yes
+96	A5073071237	Robert J. Klose	University of Oxford	GB	0	2	2	471	2	2	yes
+97	A5016384926	Danny Reinberg	Howard Hughes Medical Institute	US	0	4	4	426	3	1	yes
+98	A5067593913	Jian Zhou	Southwestern Medical Center	US	1	1	2	410	2	2	yes
+99	A5002044231	Derek M. Bickhart	U.S. Dairy Forage Research Center	US	2	0	2	400	2	2	yes
+100	A5064402534	Timothy P. L. Smith	Roman L. Hruska U.S. Meat Animal Research Center	US	0	2	2	400	2	2	
