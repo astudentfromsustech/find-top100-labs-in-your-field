@@ -1,20 +1,23 @@
-# Find the top-100 labs in your research field
+# Top labs by field
 
-Interactive lab rankings built from the published literature, one page per field.
+Interactive lab rankings derived from the published literature (OpenAlex), one page per field:
 
-**→ https://astudentfromsustech.github.io/find-top100-labs-in-your-field/**
+- **Genome assembly** — `genome-assembly.html`
+- **Assembly curation & QC** — `assembly-curation.html`
+- **3D genomics** — `3d-genomics.html`
 
-| field | labs ranked | derived from |
-|---|---|---|
-| Genome assembly | 103 | 14,293 papers |
-| Assembly curation & QC | 101 | 2,931 papers |
-| 3D genomics | 106 | 8,494 papers |
+Open the site: **https://<user>.github.io/<repo>/**
 
-Every candidate is a first- or last-author of a paper in the field (2019-2026), so the roster is the
-field rather than a shortlist. Seven bibliometric indicators are log-transformed, z-scored across the
-labs and weighted; each page's sliders re-weight the composite live, so you can see how much the order
-really depends on the weighting.
+Every page is a single self-contained HTML file — no CDN, no build step, works from `file://` too.
+Sliders re-weight the composite live so you can see how stable the order is.
 
-Not a judgement of scientific quality - see the Overview page for the method and its limits.
+## How the roster is built
 
-Bibliometrics from [OpenAlex](https://openalex.org) (CC0).
+Every work matching the field query (2019–2026) is walked and each paper's **first and last author**
+is counted — the PI signal — so the roster is the field, not a shortlist. Seven bibliometric
+indicators are log-transformed, z-scored and weighted; GitHub stars are displayed but weighted 0 by
+default. Method and limitations: see the site's Overview page.
+
+## Rebuilding
+
+Rankings are recomputed periodically. Last build: 2026-09-23.
