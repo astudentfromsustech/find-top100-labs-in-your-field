@@ -13,7 +13,10 @@ text-decoration:none;color:inherit}
 .nums{color:var(--ink2);font-size:13px;margin:0 0 10px}
 ol.top{margin:0;padding-left:20px;font-size:13.5px;color:var(--ink2)}ol.top li{margin:1px 0}
 .reg{color:var(--ink3);font-size:11.5px}.go{color:var(--s1);font-size:13px;margin:10px 0 0}
-h3{font-size:15px;margin:30px 0 6px}p,li{color:var(--ink2)}main>p,main>ul{max-width:78ch}
+h3{font-size:15px;margin:30px 0 6px}
+table.w{border-collapse:collapse;font-size:13px;margin:8px 0 4px;max-width:78ch}
+table.w th,table.w td{border:1px solid var(--grid);padding:5px 9px;text-align:left;vertical-align:top}
+table.w th{color:var(--ink);font-weight:600}table.w td{color:var(--ink2)}p,li{color:var(--ink2)}main>p,main>ul{max-width:78ch}
 code{font-size:12.5px}footer{margin-top:34px;color:var(--ink3);font-size:12.5px}
 
 .nav{display:flex;flex-wrap:wrap;gap:2px;margin:0 0 18px;border-bottom:1px solid var(--grid);padding-bottom:0}
@@ -30,17 +33,17 @@ shortlist. Updated 2026-09-23.</p>
   <h2>Genome assembly</h2>
   <p class="nums"><b>101</b> labs ranked · <b>22</b> tracked
      · from <b>14297</b> papers</p>
-  <ol class="top"><li>Eichler Evan UW <span class=reg>US</span></li><li>Varshney Rajeev <span class=reg>AU</span></li><li>Howe Blaxter Sanger ToL <span class=reg>UK</span></li><li>Jarvis Erich VGP <span class=reg>US</span></li><li>Phillippy Koren Rhie NHGRI <span class=reg>US</span></li></ol>
+  <ol class="top"><li>Eichler Evan UW <span class=reg>US</span></li><li>Varshney Rajeev <span class=reg>AU</span></li><li>Jarvis Erich VGP <span class=reg>US</span></li><li>Paten Benedict UCSC <span class=reg>US</span></li><li>Phillippy Koren Rhie NHGRI <span class=reg>US</span></li></ol>
   <p class="go">open ranking →</p></a><a class="card" href="assembly-curation.html">
   <h2>Assembly curation &amp; QC</h2>
   <p class="nums"><b>101</b> labs ranked · <b>13</b> tracked
      · from <b>2935</b> papers</p>
-  <ol class="top"><li>Eichler Evan <span class=reg>US</span></li><li>Phillippy Koren Rhie NHGRI <span class=reg>US</span></li><li>Varshney Rajeev <span class=reg>AU</span></li><li>Formenti Jarvis VGP <span class=reg>US</span></li><li>Ma Hui <span class=reg>CN</span></li></ol>
+  <ol class="top"><li>Eichler Evan <span class=reg>US</span></li><li>Phillippy Koren Rhie NHGRI <span class=reg>US</span></li><li>Paten Asri UCSC <span class=reg>US</span></li><li>Ma Hui <span class=reg>CN</span></li><li>Durbin Richard Cambridge <span class=reg>UK</span></li></ol>
   <p class="go">open ranking →</p></a><a class="card" href="3d-genomics.html">
   <h2>3D genomics</h2>
   <p class="nums"><b>101</b> labs ranked · <b>22</b> tracked
      · from <b>8493</b> papers</p>
-  <ol class="top"><li>Ren Bing UCSD <span class=reg>US</span></li><li>Chang Howard <span class=reg>US</span></li><li>Li Yun <span class=reg>US</span></li><li>Park Gehlenborg HiGlass <span class=reg>US</span></li><li>Pollard Katherine <span class=reg>US</span></li></ol>
+  <ol class="top"><li>Ren Bing UCSD <span class=reg>US</span></li><li>Chang Howard <span class=reg>US</span></li><li>Pollard Katherine <span class=reg>US</span></li><li>Dekker Job UMass <span class=reg>US</span></li><li>Park Gehlenborg HiGlass <span class=reg>US</span></li></ol>
   <p class="go">open ranking →</p></a></div>
 
 <h3>Method</h3>
@@ -54,14 +57,28 @@ by position misses a real PI on nearly half the literature. Plain middle authors
 primary one (last in the author list) earns 1.0 and each other earns 1/k. That choice matters less
 than it sounds — moving from "secondary corresponding authors count nothing" to 1/k shifts ranks by a
 median of 13 places, while moving from 1/k to full credit shifts them by 3.</p>
-<p>Seven indicators, each log-transformed, z-scored across the ranked labs and rescaled to 0–100, then
-weighted (adapted from U.S. News <i>Best Global Universities</i> and QS, which weight citation
-excellence and reputation similarly): works in the top 1 % and top 10 % of field-normalized citations
-(19 % each), papers led in the field (19 %), citations received 2021–26 (13 %), h-index
-and 2-year mean citedness (12 % each), works 2021–26 (6 %). GitHub stars are shown but carry
-<b>0 %</b> by default — only some labs have a curated repo list, so scoring them would rank
-"we catalogued this lab's tools" as "this lab's tools are used". Move any slider on a ranking page to
-see how much the order actually depends on the weights.</p>
+<h3>Where the weights come from</h3>
+<p>There is no objective weighting, so each page ships the <b>published methodologies of the major
+rankings as presets</b> — click one and watch the order change:</p>
+<table class="w"><tr><th>preset</th><th>what it mirrors</th></tr>
+<tr><td>Balanced (default)</td><td>excellence 32 %, papers led 16 %, size-independent PP(top 10 %) 16 %,
+citations 11 %, h-index 10 %, citedness 10 %, output 5 %</td></tr>
+<tr><td>Shanghai / ARWU-like</td><td>ARWU spends 30 % on Nobel/Fields laureates (proxied by h-index),
+40 % on highly-cited output and Nature/Science papers, 20 % on volume, 10 % per-capita</td></tr>
+<tr><td>U.S. News-like</td><td>25 % reputation survey (proxied by h-index), 42.5 % citation excellence,
+7.5 % total citations, 15 % publications</td></tr>
+<tr><td>Leiden PP(top 10 %)</td><td>the Leiden Ranking refuses a composite entirely and publishes the
+top-10 % share on its own — one indicator, 100 %</td></tr>
+<tr><td>Output only / Tool adoption</td><td>the two crude extremes, for contrast</td></tr></table>
+<p>The honest gap: <b>every one of those rankings spends 25–45 % on reputation surveys</b> — asking
+academics who they rate — and no bibliometric method can reproduce that. Here it is redistributed onto
+citation excellence, with h-index standing in for career standing. GitHub stars carry <b>0 %</b> by
+default because only some labs have a curated repo list; scoring them would rank "we catalogued this
+lab's tools" as "this lab's tools are used".</p>
+<p>Each indicator is log-transformed, z-scored across the ranked labs and rescaled to 0–100 before
+weighting. PP(top 10 %) is reported only for labs with at least 8 led papers — the Leiden Ranking sets
+a 800-publication floor for the same reason: a rate over a tiny denominator is noise, and at a floor of
+3 papers ten labs here tied at a meaningless 100 %.</p>
 
 <h3>What this is not</h3>
 <ul>
